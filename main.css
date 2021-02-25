@@ -1,0 +1,39 @@
+/*
+Stanley Zheng
+IntroCS pd6 sec10
+HW05: Stuylin'
+2021-02-23
+*/
+
+
+h1 {
+    color: blue;
+	font-style: italic;
+}
+
+
+h2 {
+	text-align: center;
+    color: green;
+	font-size: 40;
+}
+
+h3 {
+	color: SpringGreen /*   found this color on this website: https://htmlcolorcodes.com/color-names/    */
+}
+
+p {
+	font-family: arial;
+	color: white;
+	padding: 50px 50px 50px 50px;
+	border: 2px solid purple; /* this is a condensed version of border-width, border-style, border-color */
+}
+
+a {
+	color: MediumSlateBlue
+}
+
+
+body {
+    background-color: black; 
+}
